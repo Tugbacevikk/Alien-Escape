@@ -56,9 +56,9 @@ Bu oyun, [Mr. Platformer](https://terrycavanagh.itch.io/mr-platformer) adlı oyu
 
 Oyunu oynamak için:
 https://tugbacevikk.github.io/alien-escape/
-
 ---
-
+## Yotube linki
+https://www.youtube.com/watch?v=aCv2uqDo-n8
 ##  Yazar
 
 **Ad**: Tuğba Çevik  
