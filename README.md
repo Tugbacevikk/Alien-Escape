@@ -28,7 +28,7 @@ Bu proje, Web Tabanlı Programlama dersi kapsamında **HTML5 Canvas** ve **JavaS
 
 ---
 
-## 🔊 Sesler
+## Sesler
 
 - Arka planda sürekli olarak uzay temalı bir müzik çalar.
 - Çarpışmalarda ses efekti duyulur.
@@ -36,7 +36,7 @@ Bu proje, Web Tabanlı Programlama dersi kapsamında **HTML5 Canvas** ve **JavaS
 ---
 
 
-## 🧩 İlham Alınan Oyun
+##  İlham Alınan Oyun
 
 Bu oyun, [Mr. Platformer](https://terrycavanagh.itch.io/mr-platformer) adlı oyundan esinlenerek geliştirilmiştir. Mekanikler ve görünüm farklılaştırılmıştır.
 
